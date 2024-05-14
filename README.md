@@ -5,3 +5,5 @@ The data visualizations are written using HTML and JavaScript.
 Dataset 1: https://www.kaggle.com/datasets/josephinelsy/spotify-top-hit-playlist-2010-2022
 
 Dataset 2: https://www.kaggle.com/datasets/estienneggx/spotify-unpopular-songs
+
+You can view the data visualizations pages here: https://nurayyozden.github.io/Spotify-Music-Visualizations-Project/
